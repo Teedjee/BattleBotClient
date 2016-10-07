@@ -38,6 +38,16 @@ namespace BattleBotClient
             }
         }
 
+        public delegate void GamePausedHandler(object sender, EventArgs e);
+        public event GamePausedHandler GamePaused;
+        protected virtual void OnGamePaused(EventArgs e)
+        {
+            if (GamePaused != null)
+            {
+                GamePaused(this, e);
+            }
+        }
+
         public Client(int yourPCNr, string serverIP, int serverPort)
         {
             if (yourPCNr >= 0 && yourPCNr <= 4 && serverIP != "" && serverIP != null)
@@ -133,6 +143,11 @@ namespace BattleBotClient
                                 incomingMessage = "";
                                 System.Diagnostics.Process.Start("https://www.youtube.com/watch?v=LB871SVYMhI");
                                 /// leuk dat je daadwerkelijk naar mijn code kijkt btw
+                            }
+                            else if (incomingMessage == "pause")
+                            {
+                                incomingMessage = "";
+                                OnGamePaused(EventArgs.Empty);
                             }
                         }
                     }

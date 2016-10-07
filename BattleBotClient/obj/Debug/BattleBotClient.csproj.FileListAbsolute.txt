@@ -3,3 +3,8 @@ C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotCl
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\bin\Debug\BattleBotClientLib.pdb
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\obj\Debug\BattleBotClientLib.dll
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\obj\Debug\BattleBotClientLib.pdb
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\bin\Debug\BattleBotClientLib.dll
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\bin\Debug\BattleBotClientLib.pdb
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Debug\BattleBotClient.csprojResolveAssemblyReference.cache
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Debug\BattleBotClientLib.dll
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Debug\BattleBotClientLib.pdb
