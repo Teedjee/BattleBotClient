@@ -2,3 +2,8 @@ C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotCl
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\bin\Release\BattleBotClientLib.pdb
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\obj\Release\BattleBotClientLib.dll
 C:\Users\geert\Documents\Visual Studio 2015\Projects\BattleBotClient\BattleBotClient\obj\Release\BattleBotClientLib.pdb
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\bin\Release\BattleBotClientLib.dll
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\bin\Release\BattleBotClientLib.pdb
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Release\BattleBotClient.csprojResolveAssemblyReference.cache
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Release\BattleBotClientLib.dll
+C:\Users\geert\Source\Repos\BattleBotClient\BattleBotClient\obj\Release\BattleBotClientLib.pdb
