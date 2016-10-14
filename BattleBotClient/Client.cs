@@ -157,14 +157,12 @@ namespace BattleBotClient
 
         public void HitSomeone()
         {
-            sendMessage("HIT"); ////___________WELKE MESSAGE PRECIES?__________-
-            throw new NotImplementedException();
+            sendMessage("punt");
         }
 
         public void GotHit()
         {
-            sendMessage("HIT???"); ////___________WELKE MESSAGE PRECIES?__________-
-            throw new NotImplementedException();
+            sendMessage("hit???");
         }
     }
 }
